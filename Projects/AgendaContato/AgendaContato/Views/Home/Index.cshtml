@@ -1,0 +1,38 @@
+﻿@{ ViewBag.Title = "Contatos"; }
+   <div data-ng-controller="ContatoesController">
+        <div class="panel panel-default">
+                <div class="panel-body">
+                        <div class="row">
+                                <!--row form novoCliente-->
+                                <div class="col-md-12">
+                                        <form name="novoCliente" data-ng-show="cadastrarContato">
+                                                <div class="form-group">
+                                                        <div class="col-sm-12">
+                                                               <label for="cadastro" class="col-sm-12 control-label col-md-offset-1">CADASTRAR NOVO CONTATO</label>
+                                                        </div>
+                                                        <label for="nome" class="col-sm-2 control-label">Nome:</label>
+                                                        <div class="col-sm-10">
+                                                                <input type="text" class="form-control" id="nome" data-ng-model="novocontato." required />
+                                                        </div>
+                                                        <label for="sobrenome" class="col-sm-2 control-label">Sobrenome:</label>
+                                                        <div class="col-sm-10">
+                                                                <input type="text" class="form-control" id="sobrenome" data-ng-model="novocontato.sobrenome" required />
+                                                        </div>
+                                                        <label for="tel" class="col-sm-2 control-label">Telefone:</label>
+                                                        <div class="col-sm-10">
+                                                                <input type="text" class="form-control" id="tel" data-ng-model="novocontato.tel" required />
+                                                        </div>
+                                                        <div class="form-group">
+                                                        <div class="col-sm-offset-2 col-sm-10">
+                                                                 <input type="submit" value="Cadastrar" data-ng-click="cadastrarContato()" class="btn btn-primary" />
+                                                        </div>
+                                                        </div>
+                                                </div>
+                                         </form>
+                                 </div>
+                       </div><!-- fim row form novoCliente-->
+
+     </div><!--Fim class="panel panel-default"-->
+    
+    </div><!--Fim data-ng-controller="clienteController"-->
+</div>
