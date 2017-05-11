@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="AgendaContatoEntities-Web.config Connection String" description="AgendaContatoEntities A Cadeia de Conexão usada em web.config pelo aplicativo para acessar o banco de dados." defaultValue="metadata=res://*/Models.ModelMyDemo.csdl|res://*/Models.ModelMyDemo.ssdl|res://*/Models.ModelMyDemo.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=DELL;initial catalog=AgendaContato;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\cleilson\\documents\\visual\ studio\ 2017\\Projects\\CRUDWebAPI\\CRUDWebAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AgendaContatoEntities']/@connectionString" />
+  </parameter>
+</parameters>
