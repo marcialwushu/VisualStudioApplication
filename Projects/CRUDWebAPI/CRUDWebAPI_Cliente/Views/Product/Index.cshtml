@@ -1,0 +1,50 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+    @model CRUDWebAPI_Cliente.Models.ProductClient
+
+    @{
+        ViewBag.FindAll = "product";
+    }
+
+    <h2>Browsing ProdcutClient: @Model.Product</h2>
+
+
+
+    <table cellpadding="2" cellspacing="2" border="1">
+        <tr>
+            <th>ContatoID</th>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>Phone</th>
+            <th>Option</th>
+        </tr>
+        
+
+        @foreach (var product in ViewBag.listProducts)
+        {
+            <tr>
+                <td>@product.ContatoID</td>
+                <td>@product.ContatoID</td>
+                <td>@product.ContatoID</td>
+                <td>@product.ContatoID</td>
+                <td>Delete | Edit</td>
+            </tr>
+        }
+    </table>
+
+    <div> 
+    </div>
+</body>
+</html>
