@@ -1,0 +1,7 @@
+CREATE TABLE Contato(
+	idDados INT IDENTITY(1,1) NOT NULL,
+	Nome VARCHAR(45) NOT NULL,
+	Sobrenome VARCHAR(45) NOT NULL,
+	CONSTRAINT PK_Contato_idDados 
+	PRIMARY KEY(idDados)
+);
