@@ -1,7 +1,9 @@
-# Trabalho GQ2 desenvolvimento Web API com CRUD 
+﻿# Trabalho GQ2 desenvolvimento Web API com CRUD 
 ## Disciplina - Programação para Internet
 
 [![FGF](http://sistemas.sct.ce.gov.br/mapa/fileUploader/show/46)](http://www.fgf.edu.br/)
+
+
 [![GitHub issues](https://img.shields.io/github/issues/AnanthaRajuC/List-of-programming-languages-by-type.svg)](https://github.com/marcialwushu/VisualStudioApplication/issues)[![GitHub forks](https://img.shields.io/github/forks/AnanthaRajuC/List-of-programming-languages-by-type.svg)](https://github.com/marcialwushu/VisualStudioApplication/network)[![GitHub stars](https://img.shields.io/github/stars/AnanthaRajuC/List-of-programming-languages-by-type.svg)](https://github.com/marcialwushu/VisualStudioApplication/stargazers)
 
 Desenvolvimento da aplicaçao usando as ferramentas Visual Studio 2017 .NET Framework e SQL Server, sendo a equipe formada por dois alunos:
@@ -43,6 +45,6 @@ Desenvolvido quatro projetos para estudo com esquemas diferenciados:
 **FGF - Faculdade Integrada da Grande Fortaleza : Maio de 2017** 
 
 
-[![FGF](https://pbs.twimg.com/profile_images/815895585417023488/_zfDlgKc.jpg)]
+![FGF](https://pbs.twimg.com/profile_images/815895585417023488/_zfDlgKc.jpg)
 
 
