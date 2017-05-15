@@ -1,7 +1,7 @@
 ﻿# Trabalho GQ2 desenvolvimento Web API com CRUD 
 ## Disciplina - Programação para Internet
 
-[![FGF](http://sistemas.sct.ce.gov.br/mapa/fileUploader/show/46)](http://www.fgf.edu.br/)
+[![FGF](http://www.eadbrasilia.fgf.edu.br/novo/imagens/layout/logo1.gif)](http://www.fgf.edu.br/)
 
 
 [![GitHub issues](https://img.shields.io/github/issues/AnanthaRajuC/List-of-programming-languages-by-type.svg)](https://github.com/marcialwushu/VisualStudioApplication/issues)[![GitHub forks](https://img.shields.io/github/forks/AnanthaRajuC/List-of-programming-languages-by-type.svg)](https://github.com/marcialwushu/VisualStudioApplication/network)[![GitHub stars](https://img.shields.io/github/stars/AnanthaRajuC/List-of-programming-languages-by-type.svg)](https://github.com/marcialwushu/VisualStudioApplication/stargazers)
